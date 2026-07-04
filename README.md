@@ -40,11 +40,11 @@ pip install diffusers transformers accelerate torch matplotlib
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Nishchitha98/Image-Generation-Model.git
 ```
 
 ```bash
-cd your-repository-name
+cd Image-Generation-Model
 ```
 
 ### 2. Run the Python file
